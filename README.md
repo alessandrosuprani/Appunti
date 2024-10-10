@@ -4,7 +4,7 @@ Questa repository contiene gli appunti in formato PDF delle lezioni di Chimica I
 
 Contenuti:
 - File PDF unico: Gli appunti sono forniti in un unico file PDF.
-- Strutturato per moduli: Il file PDF è suddiviso internamente per moduli, ed è presente un indice posto immediatamente dopo la copertina per trovare velocemente gli argomenti di interessi.
+- Strutturato per moduli: Il file PDF è suddiviso internamente per moduli, ed è presente un indice posto immediatamente dopo la copertina per trovare velocemente gli argomenti di interesse.
 
 Come usare la repository:
 - Scarica il file PDF direttamente dalla repository per consultare gli appunti
