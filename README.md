@@ -1,6 +1,6 @@
 - Appunti di Chimica Industriale
 
-Questa repository contiene gli appunti in formato PDF delle lezioni di Chimica Industriale, redatti e organizzati per esami e moduli. Gli appunti forniscono una visione completa dei contenuti trattati durante il corso.
+Questa repository contiene gli appunti in formato PDF delle lezioni di Chimica Industriale, redatti e organizzati per esami e moduli utilizzando LaTeX. Gli appunti forniscono una visione completa dei contenuti trattati durante il corso.
 
 Contenuti:
 - File PDF unico: Gli appunti sono forniti in un unico file PDF.
